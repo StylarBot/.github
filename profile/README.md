@@ -25,7 +25,7 @@ Suggested features are always being considered and sometimes added.
 
 ## 🚀 Heard enough?
 
-Start using Stylar™️ over MEE6 today, by cliicking [here.](https://discord.com/api/oauth2/authorize?client_id=1147168520732422287&permissions=28032714141399&scope=bot%20applications.commands)
+Start using Stylar™️ over MEE6 today, by clicking [here.](https://discord.com/api/oauth2/authorize?client_id=1147168520732422287&permissions=28032714141399&scope=bot%20applications.commands)
 
 
 
