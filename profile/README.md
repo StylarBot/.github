@@ -6,9 +6,11 @@
 
 Your server, your choices: Stylar™️
 
-<a href="https://www.javascript.com/"><img alt="Javascript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/javascript_vector.svg"></a>
+<a href="https://www.github.com/StylarBot/Stylar"><img alt="Javascript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/javascript_vector.svg"></a>
 <a href="https://discord.com"><img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
-<a href="https://www.typescript.com/"><img alt="Typescript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/typescript_vector.svg"></a>
+<a href="https://www.github.com/StylarBot/Stylar-TS"><img alt="Typescript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/typescript_vector.svg"></a>
+
+**-** *tip: click either the JS or TS button to redirect to the repository!*
 
 ## 🤔 Why?
 
