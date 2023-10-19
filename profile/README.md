@@ -10,6 +10,4 @@ Your server, your choices: Stylar™️
 <a href="https://stylar.vercel.app"><img alt="Website" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/documentation/website_vector.svg"></a>
 <a href="https://www.github.com/StylarBot/Stylar-TS"><img alt="Typescript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/typescript_vector.svg"></a>
 
-**-** *tip: click either the JS or TS button to redirect to the repository!*
-
-Start using Stylar™️ over MEE6 today, by clicking [here.](https://discord.com/api/oauth2/authorize?client_id=1147168520732422287&permissions=28032714141399&scope=bot%20applications.commands)
+**-** *tip: click either the JS or TS button to redirect to the repository!*b
