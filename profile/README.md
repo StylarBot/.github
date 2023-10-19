@@ -12,24 +12,4 @@ Your server, your choices: Stylar™️
 
 **-** *tip: click either the JS or TS button to redirect to the repository!*
 
-## 🤔 Why?
-
-### Easy to use
-
-Designed to be easy for less advanced users! These shouldn't be hard, so we try and ease the things to make your experience up to your imagination.
-
-### Free and open source
-
-Anyone can view, and send changes which will be reviewed by the team. Aditionally, you can see proof that we don't have any malware in our bot.
-
-### Active development
-
-Suggested features are always being considered and sometimes added.
-
-## 🚀 Heard enough?
-
 Start using Stylar™️ over MEE6 today, by clicking [here.](https://discord.com/api/oauth2/authorize?client_id=1147168520732422287&permissions=28032714141399&scope=bot%20applications.commands)
-
-
-
-**-** *original readme by @heyitsleo for HybrProxy*
