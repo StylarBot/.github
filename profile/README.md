@@ -2,12 +2,9 @@
 
 <img src="https://i.imgur.com/4LW9K0H.png" alt="StylarLogo" width="224" height="224" style="margin-bottom: 25px;" />
 
-# Stylar Team™️
+# Stylar has ended services!
 
-Your server, your choices: Stylar™️
+🛑 Notice: Starting Jan 1st, 2024; Stylar 1.0 will be terminating any further updates throughout the bots "Stylar#4154" and affiliates. 
+**Stylar Developers will not be stopping developing all together, they'll work on a new project.** Visit https://github.com/FortressBot
+for a new, handy, and open-source Discord bot. Fortress will recieve all further attention towards the project. Thank you.
 
-<a href="https://www.github.com/StylarBot/Stylar"><img alt="Javascript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/javascript_vector.svg"></a>
-<a href="https://stylar.vercel.app"><img alt="Website" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/documentation/website_vector.svg"></a>
-<a href="https://www.github.com/StylarBot/Stylar-TS"><img alt="Typescript" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/typescript_vector.svg"></a>
-
-**-** *tip: click either the JS or TS button to redirect to the repository!*b
